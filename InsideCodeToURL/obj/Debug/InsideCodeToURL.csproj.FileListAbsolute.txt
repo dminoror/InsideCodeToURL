@@ -1,0 +1,15 @@
+C:\Users\DL5566\Desktop\Project\InsideCodeToURL\InsideCodeToURL\bin\Debug\InsideCodeToURL.exe.config
+C:\Users\DL5566\Desktop\Project\InsideCodeToURL\InsideCodeToURL\bin\Debug\InsideCodeToURL.exe
+C:\Users\DL5566\Desktop\Project\InsideCodeToURL\InsideCodeToURL\bin\Debug\InsideCodeToURL.pdb
+C:\Users\DL5566\Desktop\Project\InsideCodeToURL\InsideCodeToURL\obj\Debug\InsideCodeToURL.csprojAssemblyReference.cache
+C:\Users\DL5566\Desktop\Project\InsideCodeToURL\InsideCodeToURL\obj\Debug\MainWindow.g.cs
+C:\Users\DL5566\Desktop\Project\InsideCodeToURL\InsideCodeToURL\obj\Debug\App.g.cs
+C:\Users\DL5566\Desktop\Project\InsideCodeToURL\InsideCodeToURL\obj\Debug\InsideCodeToURL_MarkupCompile.cache
+C:\Users\DL5566\Desktop\Project\InsideCodeToURL\InsideCodeToURL\obj\Debug\InsideCodeToURL_MarkupCompile.lref
+C:\Users\DL5566\Desktop\Project\InsideCodeToURL\InsideCodeToURL\obj\Debug\MainWindow.baml
+C:\Users\DL5566\Desktop\Project\InsideCodeToURL\InsideCodeToURL\obj\Debug\InsideCodeToURL.g.resources
+C:\Users\DL5566\Desktop\Project\InsideCodeToURL\InsideCodeToURL\obj\Debug\InsideCodeToURL.Properties.Resources.resources
+C:\Users\DL5566\Desktop\Project\InsideCodeToURL\InsideCodeToURL\obj\Debug\InsideCodeToURL.csproj.GenerateResource.cache
+C:\Users\DL5566\Desktop\Project\InsideCodeToURL\InsideCodeToURL\obj\Debug\InsideCodeToURL.csproj.CoreCompileInputs.cache
+C:\Users\DL5566\Desktop\Project\InsideCodeToURL\InsideCodeToURL\obj\Debug\InsideCodeToURL.exe
+C:\Users\DL5566\Desktop\Project\InsideCodeToURL\InsideCodeToURL\obj\Debug\InsideCodeToURL.pdb
